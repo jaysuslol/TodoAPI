@@ -1,1 +1,1 @@
-Basic API created on C# with ASP.NET Core
+Basic API written on C#, using ASP.NET Core
